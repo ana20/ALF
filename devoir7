@@ -1,3 +1,5 @@
+ L'addition sur 2 bits sur une machine turing. 
+
 // Input to this machine: a binary number.
 // Output: that binary number plus one.
 var addOneMachine = {};
